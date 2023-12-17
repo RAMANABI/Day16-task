@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#independence{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    margin-top: 25%;
+    color: orangered;
+}
